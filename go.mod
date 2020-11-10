@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-hugo-modules
+module github.com/Bertbk/hugo-academic
 
-go 1.14
+go 1.15
